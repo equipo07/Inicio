@@ -329,7 +329,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/finallll.png",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": false,
                 "showTitle": true,
@@ -367,8 +367,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/np3-1.png",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/nuestro-proyecto-5.png",
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
